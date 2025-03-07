@@ -1,4 +1,4 @@
-<h1 align="left">Hi there 👋 <br>My name is Andre and I'm a problem solver with a degree in Computer Science</h1>
+<h1 align="left">Hi there 👋 <br>My name is Andre and I'm a problem solver e</h1>
 
 ###
 
